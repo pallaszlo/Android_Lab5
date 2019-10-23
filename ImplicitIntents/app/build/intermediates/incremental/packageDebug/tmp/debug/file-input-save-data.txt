@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Oct 23 10:47:53 EEST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\Android\\android-fundamentals-apps-v2\\ImplicitIntents\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
